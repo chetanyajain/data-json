@@ -143,6 +143,14 @@
       "body": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia necessitatibus\nnostrum quaerat nulla et accusamus nisi facilis"
     }
   ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Question text",
+      "answer": "Answer Text",
+      "category": "a;b;c"
+    }
+  ],
   "profile": {
     "name": "chetanyajain"
   }
